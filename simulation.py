@@ -1,4 +1,3 @@
-import unittest
 from unittest.mock import MagicMock, patch
 from hydroponics import hydroponics_schedule_run
 
