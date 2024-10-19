@@ -4,7 +4,7 @@
 
 Documentation used: <https://gpiozero.readthedocs.io/en/latest/api_boards.html#energenie>
 
-Note for Sim: Learn some basic Python and remember to set up a virtualenv and do some pip x
+Note for Sim: Learn some basic Python and remember to set up a virtualenv and learn how to use Pip to install the dependencies
 
 ## How to use
 
